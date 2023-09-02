@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SetNumbers</string>
+    <string name="buSumName">Sum</string>
+    <string name="buStartingValuesName">Starting values</string>
+    <string name="tvSumOutputDefault">(Sum)</string>
+    <string name="sbOneDefaultValue">5</string>
+    <string name="sbTwoDefaultValue">1.0</string>
 </resources>
